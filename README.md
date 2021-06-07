@@ -1,1 +1,1 @@
-# Python_For_ML_CodeWarriors_Udemy
+## You can see the amazing animations by opening these notebooks in google colab
